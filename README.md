@@ -60,6 +60,7 @@ pipenv install --dev
 Run this:
 
 ```shell
+coverage run
 coverage html
 ```
 
