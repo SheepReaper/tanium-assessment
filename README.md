@@ -66,4 +66,5 @@ coverage html
 
 **View Reports**
 
-Report is output in html to the `htmlcov/` directory. Just open `index.html` in a browser.
+Report is output in html to the `docs/` directory. Just open `index.html` in a browser. 
+Or check out the latest published version [Here](https://sheepreaper.github.io/tanium-assessment/index)
