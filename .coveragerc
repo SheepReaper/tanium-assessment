@@ -16,3 +16,6 @@ omit =
     *model.py
 
 show_missing = True
+
+[html]
+directory = docs
