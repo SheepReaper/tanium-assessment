@@ -1,0 +1,17 @@
+[run]
+branch = True
+
+[report]
+exclude_lines =
+    pragma: no cover
+    if TYPE_CHECKING:
+
+include = 
+    api.py
+    jph/*
+
+omit =
+    *_test.py
+    *model.py
+
+show_missing = True
