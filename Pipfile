@@ -8,7 +8,7 @@ requests = "*"
 returns = "*"
 
 [dev-packages]
-black = "==21.6b0"
+black = "==23.9.1"
 coverage = "*"
 flake8 = "*"
 pytest = "*"
